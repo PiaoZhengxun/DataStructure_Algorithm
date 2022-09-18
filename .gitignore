@@ -404,3 +404,4 @@ gradle-app.setting
 ### Gradle Patch ###
 # Java heap dump
 *.hprof
+/ZiXue_Book/writtenCodes/
